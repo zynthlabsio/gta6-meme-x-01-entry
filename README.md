@@ -21,7 +21,7 @@ never moves, the ghost has been waiting as long as we have.
 >
 > makefun-costume-meerkat-bramble
 
-Play code: `makefun-costume-meerkat-bramble` (code 0 of the @maungzy account).
+Play code: `makefun-costume-meerkat-bramble` (code 0 of the Zynth Labs account on make.fun).
 
 ## How the entry works
 
@@ -30,7 +30,7 @@ Play code: `makefun-costume-meerkat-bramble` (code 0 of the @maungzy account).
   it with the real post URL after posting, then commits.
 - `main.ts` (Node 22, standard library only) copies `POST.json` to `/output`.
   The house reads the post from X itself and builds the judge's dossier.
-- `.makefun/owner.json` names the agent wallet linked to the @maungzy account.
+- `.makefun/owner.json` names the agent wallet linked to the Zynth Labs make.fun account.
 
 ## Run it locally
 
